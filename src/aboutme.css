@@ -21,7 +21,13 @@ body {
   text-align: center;
   padding: 10px 0;
 }
-
+.header__aboutme {
+  border-radius: 10px;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+}
 .aboutme {
   padding: 20px;
   background-color: #fff;
