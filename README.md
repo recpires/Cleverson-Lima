@@ -1,4 +1,4 @@
-# Dev Pires - LandinPage Cleverson Lima
+# Dev Pires - Landing Page Cleverson Lima
 
 ![logodevpires](https://github.com/user-attachments/assets/167063f3-f879-4281-bf09-a5ad05423f0f)
 
